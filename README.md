@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="profile-img">
-                            <img src="vy.jpg" alt=""/>
+                            <img src="vy.jpg" alt="" width="300" height="200"/>
                             <div class="file btn btn-lg btn-primary">
                             </div>
                         </div>
