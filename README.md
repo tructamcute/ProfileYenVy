@@ -96,6 +96,7 @@
                                             <div class="col-md-6">
                                                 <p>Nhóm số 6</p>
                                             </div>
+                                                        <a href="https://tructamcute.github.io/nhom6_12L/">Quay lại trang chủ</a>
                                         </div>
                                         <tim>
   <canvas id="pinkboard"></canvas>
@@ -315,7 +316,5 @@
       }, 10);
     })(document.getElementById('pinkboard'));
   </script>
-</tim>
-                                        <br>
-                                        <a href="https://tructamcute.github.io/nhom6_12L/">Quay lại trang chủ</a>
+</tim>                   
                             </div>
