@@ -5,6 +5,9 @@
 
 <head>
             <style>
+                        h1 {
+            display:none;
+            }
                         .tim {
           height: 100%;
           width: device-width;
